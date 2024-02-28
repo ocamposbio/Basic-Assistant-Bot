@@ -1,9 +1,7 @@
-# B.A.T. - Tech Assistant Bot
 # B.A.T. (Tech Assistant Bot) is your personal tech companion, here to simplify your interactions with technology. Below are some tasks that B.A.T. can perform:
 
 # Wikipedia Search:
-
-# Command: "Wikipedia [term]"
+Command: "Wikipedia [term]"
 Description: B.A.T. can search for information on Wikipedia about any topic.
 Open Websites:
 
